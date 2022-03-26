@@ -2,7 +2,7 @@
 
 # Git
 
-Personal Code Repositories
+<div align="center"> Personal Code Repositories <div>
 
 # Jot down some text
 
