@@ -1,49 +1,126 @@
-<div align="center">
-### Hi there 👋
 
-# Git
+<h1 align='center'>
+  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Facundo Ferro 👨‍💻
+</h1>
 
- Personal Code Repositories 
-</div>
+<p align='center'>
+I’m a software developer from Buenos Aires, Argentina.
+</p>
+<p align='center'>
+Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
+ </p>
+<p align='center'>
+ Another knowledge: AWS | Docker| Testing
+</p>
 
-# Jot down some text
 
----
 
-They found Mary, as usual, deep in the study of thorough-bass and human nature; and had some extracts to admire, and some new observations of threadbare morality to listen to. Catherine and Lydia had information for them of a different sort.
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/facundo-m-ferro/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/faqundoDev">
+    <img src="https://img.shields.io/twitter/follow/faqundoDev.svg?style=social&label=Follow?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-# Make a to-do list
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=faqundo&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
----
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/Windows 11-blue?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-CoreI5-red?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-UHD%20Graphics%20G1-green?&style=for-the-badge&logo=intel&logoColor=white" />
+  </br>
+  <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-CoreI5-red?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
-- [ ]  Wake up
-- [ ]  Eat breakfast
-- [x]  Brush teeth
+<!-- <details align='center'>
+  <summary>:zap: My workspace specs</summary>
+</details>-->
 
-# Create sub-pages
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/facundopadilla/facundopadilla"></a>
+</p>
 
----
+<details>
+  <summary>📃 Resume</summary>
 
-[Sub Page](https://www.notion.so/Sub-Page-9174eb197c6e488a89f17a52ab707812)
 
-# Embed links
+## Education
 
----
+- 📖 **University**\
+📆 2019 - moment\
+📍 **Universidad de Buenos Aires** - Buenos Aires, Argentina
+📝 **Software engineer**
+ 
+- 📖 **Bootcamps**\
+📆 2019 \
+📍 **Comunidad IT ** - Buenos Aires, Argentina
+📝 **Bootcamp Fullstack - React.js/Node.js** \
+ \
+📆 2020 \
+📍 **CoderHouse ** - Buenos Aires, Argentina
+📝 **Bootcamp Fullstack - React.js/Node.js**
 
-[Beyond Frank Lloyd Wright: A Broader View of Art in Chicago](https://www.nytimes.com/2018/03/08/arts/chicago-museums-art.html?rref=collection%2Fsectioncollection%2Ftravel)
 
-[Havana's Symphony of Sound](https://www.nytimes.com/2018/03/12/travel/havana-cuba.html?rref=collection%2Fsectioncollection%2Ftravel)
-<!--
-**faqundo/faqundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+<div align='center'>
+<img align="right" src="https://img.shields.io/badge/Node-181717?logo=node&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-E34F26?logo=javascript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Vue-E34F26?logo=javascript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-E34F26?logo=javascript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AWS-181717?logo=amazon&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Laravel-3498DB?logo=laravel&logoColor=white" />
+ </div>\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 **Fullstack Developer**\
+📆 2021 - moment\
+📍 **CargoFive** - Remote, Portugal
+ 
+ - 👨‍💻 **Assistant teacher- Fullstack React/Node **\
+📆 2021 - moment\
+📍 **DigitalHouse** - Remote, Argentina
+ 
+  - 👨‍💻 **IT Volunteer Mentor **\
+📆 2021 - moment\
+📍 **Programa Empujar** - Remote, Argentina
+ 
+ - 👨‍💻 **Fullstack developer**\
+📆 2020 - 2021\
+📍 **Werden IT** - Buenos Aires, Argentina
+ 
+ - 👨‍💻 **Fullstack developer**\
+📆 2020 - 2021\
+📍 **IT Rock** - Buenos Aires, Argentina
+ 
+ - 👨‍💻 **Node Developer / Team Leader for Telefonica Proyect**\
+📆 2019 - 2020\
+📍 **BOTMAKER** - Buenos Aires, Argentina
+
+## Technical information
+
+<img align="right" src="https://img.shields.io/badge/LinuxLite-294172?logo=linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows 11-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+
+</details>
+
+
+  
