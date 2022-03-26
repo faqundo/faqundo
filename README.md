@@ -1,8 +1,10 @@
+<div align="center">
 ### Hi there 👋
 
 # Git
 
-<div align="center"> Personal Code Repositories <div>
+ Personal Code Repositories 
+</div>
 
 # Jot down some text
 
