@@ -10,7 +10,7 @@ I’m a software developer from Buenos Aires, Argentina.
 Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
  </p>
 <p align='center'>
- Another knowledge: AWS | Docker| Testing
+ Another knowledge: AWS | Docker | Testing
 </p>
 
 
