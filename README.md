@@ -51,16 +51,16 @@ Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
 
 - 📖 **University**\
 📆 2019 - moment\
-📍 **Universidad de Buenos Aires** - Buenos Aires, Argentina
+📍 **Universidad de Buenos Aires** - Buenos Aires, Argentina\
 📝 **Software engineer**
  
 - 📖 **Bootcamps**\
 📆 2019 \
-📍 **Comunidad IT ** - Buenos Aires, Argentina
-📝 **Bootcamp Fullstack - React.js/Node.js** \
+📍 **Comunidad IT ** - Buenos Aires, Argentina\
+📝 **Bootcamp Fullstack - React.js/Node.js** 
  \
 📆 2020 \
-📍 **CoderHouse ** - Buenos Aires, Argentina
+📍 **CoderHouse ** - Buenos Aires, Argentina\
 📝 **Bootcamp Fullstack - React.js/Node.js**
 
 
@@ -118,4 +118,13 @@ Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
 </details>
 
 
+<details>
+  <summary>🔗 Links of interest </summary>
   
+  <a href="https://awesomestacks.dev/"> Awesome stack </a>\
+  Interesting developers stacks combinations\
+  
+  <a href="https://www.notion.so"> Notion </a>\
+  Make amazing documentation
+  
+</details>
