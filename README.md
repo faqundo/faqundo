@@ -43,7 +43,7 @@ Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
 </p>
 
 
-<details>
+
   <summary>📃 Resume</summary>
 
 
@@ -115,7 +115,7 @@ Laravel(PHP) | Node.js | MySQL | HTML | CSS | Javascript | React.js | Vue.js
 **Operating Systems**
 
 
-</details>
+
 
 
 <details>
