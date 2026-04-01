@@ -168,6 +168,12 @@
 - Liderazgo técnico (12 devs)
 - Modernización de plataforma y diseño de APIs
 - Exploración temprana de IA/automatización para optimización logística
+  
+### 🚛 Tech Lead
+**IT Rock** | 2020 - 2021 | Remoto
+
+### 🚛 Fullstack
+**Botmaker** | 2019 - 2020 | Remoto
 
 </div>
 
@@ -213,7 +219,7 @@
 
 <div align="center">
   
-  📍 **Valencia, España** (Disponible para Málaga presencial)
+  📍 **Valencia, España** 
   
   🌍 **Remoto** - Worldwide
   
